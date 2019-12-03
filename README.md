@@ -10,7 +10,12 @@ This work has been submitted to ICASSP 2020. You may refer to the submitted vers
 ## Code
 Please download the code-base for the best performing pre-trained model and the associated scripts from [here](https://drive.google.com/open?id=1e9NXYE4Ww71gJ0u60ocPiaMz5VOnYZSk). Please follow the Readme file in this folder for further instructions.
 
+## License
+The code and models in this repository are licensed under the GNU General Public License Version 3. For commercial use of this code and models, separate commercial licensing is also available. Please see the contacts below.
+
 ## Contact
 Chitralekha Gupta at chitralekha[at]nus[dot]edu[dot]sg
 
 Emre Yilmaz at emre[at]nus[dot]edu[dot]sg
+
+Haizhou Li at haizhou[dot]li[at]nus[dot]edu[dot]sg
