@@ -13,4 +13,4 @@ Please download the code-base for the best performing pre-trained model and the 
 ## Contact
 Chitralekha Gupta at chitralekha[at]nus[dot]edu[dot]sg
 
-Emre Y\ilmaz at emre[at]nus[dot]edu[dot]sg
+Emre Yilmaz at emre[at]nus[dot]edu[dot]sg
